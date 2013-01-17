@@ -5,5 +5,5 @@ int width, i;
 width = 5;
 i = width * width;
 	printf("ˆê•Ó‚Ì’·‚³%d‚Ì³•ûŒ`‚Ì–ÊÏ‚Í%d‚Å‚·B\n", width,i);
-	printf("‚²‚¹‚¦ \n");
+	printf("‚²‚¹‚¦‚¦ \n");
 }
